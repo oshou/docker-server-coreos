@@ -21,4 +21,4 @@ $ vagrant up
 ## Notice
 - CoreOS is minimal & very fast. But...
   - no package management system(yum, apt...)
-  - read-only Linux Kernel()
+  - read-only file system(you can't edit /usr or /etc file)
