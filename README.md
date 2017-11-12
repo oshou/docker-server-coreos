@@ -1,4 +1,4 @@
-# docker-server-coreos
+# local-docker-server-coreos
 
 ## Default Setting
 - Network
@@ -13,8 +13,8 @@
 ## Get started
 
 ```
-$ git clone https://github.com/oshou/docker-server-coreos.git
-$ cd docker-server-coreos
+$ git clone https://github.com/oshou/local-docker-server-coreos.git
+$ cd local-docker-server-coreos
 $ vagrant up
 ```
 
